@@ -5,7 +5,7 @@ IFTTTでTwitterを叩くコードの例
 ![何とか無料でTwitterを自動化できないか頑張る図](assets/images/readme.png "何とか無料でTwitterを自動化できないか頑張る図")
 
 ## 適当な検索図
-![何とか無料でTwitterを自動化できないか頑張る図(検索編)](assets/images/search.png "何とか無料でTwitterを自動化できないか頑張る図")
+![何とか無料でTwitterを自動化できないか頑張る図(検索編)](assets/images/search.png "何とか無料でTwitterを自動化できないか頑張る図(検索編)")
 
 ### IFTTTの設定
 1. If に Twitter の「New tweet from search」を設定
